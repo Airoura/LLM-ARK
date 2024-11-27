@@ -3,7 +3,7 @@ This repository provide an implementation of LLM-ARK, which is described in this
 
 [Evaluating and Enhancing Large Language Models for Conversational Reasoning on Knowledge Graphs](https://arxiv.org/abs/2312.11282)
 
-Yuxuan Huang, Lida Shi, Anqi Liu, Hao Xu
+Yuxuan Huang
 
 #### Motivating example:
 
