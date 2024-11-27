@@ -70,7 +70,7 @@ To cite this work please use:
 ```
 @misc{huang2024evaluating,
       title={Evaluating and Enhancing Large Language Models for Conversational Reasoning on Knowledge Graphs}, 
-      author={Yuxuan Huang and Lida Shi and Anqi Liu and Hao Xu},
+      author={Yuxuan Huang},
       year={2024},
       eprint={2312.11282},
       archivePrefix={arXiv},
@@ -79,4 +79,4 @@ To cite this work please use:
 ```
 
 ## License
-LLM-ARK is released under [Apache-2.0 license](https://www.apache.org/licenses/LICENSE-2.0), see [LICENSE](https://github.com/Aipura/LLM-ARK/blob/main/LICENSE) for details.
+LLM-ARK is released under [Apache-2.0 license](https://www.apache.org/licenses/LICENSE-2.0), see [LICENSE](https://github.com/Airoura/LLM-ARK/blob/main/LICENSE) for details.
