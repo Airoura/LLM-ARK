@@ -15,7 +15,7 @@ Yuxuan Huang
 ## Usage
 1. Clone this project, install dependency packages and Pytorch >= 2.0.0.
 ```
-git clone https://github.com/Aipura/LLM-ARK.git
+git clone https://github.com/Airoura/LLM-ARK.git
 cd LLM-ARK
 pip3 install -r requirements.txt
 ```
